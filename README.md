@@ -1,6 +1,6 @@
 # OpeningLeadCheats
 Building AI course project - an idea for an AI project (analyze opening leads in bridge and detect anomalies)
-
+and new ways 
 # Project Title
 
 Building AI course project - Opening Lead Cheaters in Bridge
@@ -26,7 +26,7 @@ Once the model is trained, an analyst can use the AI to test opening lead data f
 ## Data sources and AI methods
 
 The data sources are the vugraph archives of online bridge servers. The data inlcudes the hands, the auction, and the full play, including the opening lead made.
-As part of the project, the data needs to be harvested from the archives. During the harvesting, hands played by convicted cheats should be excluded.
+As part of the project, the data needs to be harvested from the archives. During the harvesting, hands played by convicted cheats should be excluded. 
 
 ## Challenges
 
